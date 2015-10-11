@@ -1,24 +1,24 @@
 {
     "dapps": [
         {
-            "description": "A key-value decentralized storage",
-            "source": "https://github.com/contractvm/cvm-dapp-blockstore",
-            "name": "blockstore"
+            "name": "blockstore",
+            "description": "decentralized key-value storage",
+            "source": "https://github.com/contractvm/cvm-dapp-blockstore"
         },
         {
+            "name": "helloworld",
             "description": "decentralized helloworld",
-            "source": "https://github.com/contractvm/cvm-dapp-helloworld",
-            "name": "helloworld"
+            "source": "https://github.com/contractvm/cvm-dapp-helloworld"
         },
         {
+            "name": "fifomom",
             "description": "decentralized fifo message-oriented middleware",
-            "source": "https://github.com/contractvm/cvm-dapp-fifomom",
-            "name": "fifomom"
+            "source": "https://github.com/contractvm/cvm-dapp-fifomom"
         },
         {
+            "name": "cotst",
             "description": "decentralized contract-oriented middleware based on timed session types",
-            "source": "https://github.com/contractvm/cvm-dapp-cotst",
-            "name": "cotst"
+            "source": "https://github.com/contractvm/cvm-dapp-cotst"
         }
     ]
 }
